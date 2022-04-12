@@ -1,5 +1,39 @@
 {
-    "name": "Monkey 4",
-    "description": "Monkey 4 description",
-    "image": "https://matinvert.github.io/bv-trees/nfts/4.png"
+  "name": "BeverlyTrees #4",
+  "description": "BeverlyTrees is a blockchain-based platform for the creation and management of trees.",
+  "image": "https://matinvert.github.io/bv-trees/nfts/4.png",
+  "dna": "f9f733e070850259661d8fcdf5ae9e053f1d6896",
+  "edition": 4,
+  "date": 1649774320175,
+  "attributes": [
+    {
+      "trait_type": "back",
+      "value": "12"
+    },
+    {
+      "trait_type": "body",
+      "value": "female"
+    },
+    {
+      "trait_type": "neckless",
+      "value": "27"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "35"
+    },
+    {
+      "trait_type": "heads",
+      "value": "74"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "80"
+    },
+    {
+      "trait_type": "hair",
+      "value": "92"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
 }

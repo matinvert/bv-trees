@@ -2,33 +2,37 @@
   "name": "BeverlyTrees #7",
   "description": "BeverlyTrees is a blockchain-based platform for the creation and management of trees.",
   "image": "https://matinvert.github.io/bv-trees/nfts/7.png",
-  "dna": "6cb9b05454a49c3a4cc24013e2c370d7ec222a88",
+  "dna": "49b0e237330bab80d606b2a9f45464d9adb1a41a",
   "edition": 7,
-  "date": 1649768228791,
+  "date": 1649774322573,
   "attributes": [
     {
+      "trait_type": "back",
+      "value": "10"
+    },
+    {
       "trait_type": "body",
-      "value": "Body=Zombie"
+      "value": "female"
+    },
+    {
+      "trait_type": "neckless",
+      "value": "19"
     },
     {
       "trait_type": "clothes",
-      "value": "Clothe=Tshirt orange"
+      "value": "36"
     },
     {
-      "trait_type": "extras",
-      "value": "Extras=Halo"
+      "trait_type": "heads",
+      "value": "55"
     },
     {
       "trait_type": "glasses",
-      "value": "Glasses=Lab goggles"
+      "value": "78"
     },
     {
-      "trait_type": "hat",
-      "value": "Hat=Beanie grey"
-    },
-    {
-      "trait_type": "mouth",
-      "value": "Mouth=Party horn"
+      "trait_type": "hair",
+      "value": "88"
     }
   ],
   "compiler": "HashLips Art Engine"
